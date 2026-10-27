@@ -1,0 +1,8 @@
+# Gowin EDA build output (regenerated on every synthesis / place & route)
+impl/
+*.gprj.user
+
+# Simulation output
+sim/*.vvp
+sim/*.vcd
+sim/*.log
